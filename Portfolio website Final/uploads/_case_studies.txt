@@ -1,0 +1,341 @@
+Case Studies
+Valeryia Sadokha — Web & Digital Designer
+All 11 projects, in full — problem, research & decisions, build, outcome, what I&apos;d do differently and client testimonial. Sections without confirmed info are marked in orange as placeholders to fill in by hand. Source content otherwise matches what&apos;s live on the portfolio site.
+01 / 11
+[Heading1]Visual UniVRs
+A VR/AR studio with Olympics Committee–level client work, undersold by a website that explained none of it.
+ROLE
+End-to-end website design, brand identity, developer management
+SCOPE
+Full WordPress rebuild, brand identity, pitch deck, social & presentation assets
+TOOLS
+Figma, WordPress
+YEAR
+2023–24
+RESULT
+~2× average project value
+[Heading2]The Problem
+Visual UniVRs builds VR/AR experiences and graphics good enough to land the Olympics Committee as a client reference — but their website did nothing to earn that kind of trust from a new visitor. Technical, niche services, presented with no real structure or proof.
+I started with a two-hour briefing covering target audience, key propositions, services, and the technology itself — dense enough that most of the value came from getting these details right before any design work began.
+[Heading2]Research & Decisions
+Keyword & competitor research  —  Mapped realistic-to-rank keywords against the ones most likely to bring leads, then studied 5–10 top competitors&apos; structure, content and design — not to copy, but to see what had already been tested.
+Findings, documented  —  Packaged the research into a takeaways document, so the client left with marketing and growth insight beyond just a new website.
+Prototype before pixels  —  Built structure and content flow first, prioritizing clear navigation so a technical service stayed easy to follow.
+Style options, then commitment  —  Presented a few style/layout directions before building the rest of the site, so the final design matched the brand and vision the client actually wanted.
+[Heading2]Build
+Designed the remaining pages in the chosen direction, then adapted everything for tablet and mobile. I hired and managed a WordPress developer to build it — including replacing an underperforming developer partway through to keep the project on track. After launch, we added a blog with the client&apos;s SEO specialist, plus social covers, a presentation, and a Calendly booking page design.
+[Heading2]Outcome
+~2×   Average project value, post-launch
+6 months   Of team-wide work from new clients found via the site
+Client-reported, based on projects won after launch — no paid ads running at the time.
+[Heading2]What I&apos;d Do Differently
+The developer swap cost real time I hadn&apos;t planned for. Next time, I&apos;d run a small paid trial task before committing a multi-month build to a new developer, instead of discovering the fit problem after work was already underway.
+[Heading2]Client Testimonial
+“We&apos;re already seeing results — even without running ads yet. The website secured us several large projects, giving the whole team six months of work. Clients told us they chose us because of the strong team and portfolio they found through the site. Our average project value has increased nearly 2×, which was our main goal — to strengthen our brand image. As a digital business card, it&apos;s working perfectly.”
+— Client review
+02 / 11
+[Heading1]iData
+A pre-seed robot that dusts data centres, pitching investors on a brand and website that didn&apos;t exist yet.
+ROLE
+Brand identity, website design & build, pitch deck
+SCOPE
+Brand identity from scratch, Figma Sites build, investor pitch deck, adaptive design
+TOOLS
+Figma, Figma Sites
+YEAR
+2025
+RESULT
+Live site used in investor pitching
+[Heading2]The Problem
+iData&apos;s founder had engineering, an MVP, and a robot that dusts data centres — a job normally done by people — but nothing to show an investor. No brand, no website, no way to explain the idea visually in a pitch room.
+[Heading2]Research & Decisions
+Identity from nothing  —  Built the full brand identity from scratch — palette, type, visual language — with nothing existing to start from.
+Explaining the robot  —  Took the founder&apos;s 3D model, posed and rendered it for marketing use, since there was no product photography possible yet.
+Built to present, not just to look at  —  Built the site directly in Figma Sites so it was a real, live, responsive link the founder could put in front of investors — not just a mockup.
+Illustration support  —  Added custom illustrations alongside the renders to explain the technical concept simply.
+[Heading2]Build
+Designed and built fully adaptive layouts for desktop, tablet and mobile, and put together the accompanying investor pitch deck in the same visual system.
+[Heading2]Outcome
+Live   Site used directly in investor pitches
+Adaptive   Desktop, tablet & mobile from launch
+Outcome of the fundraise itself unconfirmed — contact ended after delivery.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
+03 / 11
+[Heading1]MarGuru
+A recruitment agency with clients across two continents and no website at all.
+ROLE
+Website design & build (first Webflow project)
+SCOPE
+Webflow build, CMS-driven jobs board, brand identity
+TOOLS
+Figma, Webflow
+YEAR
+2024
+RESULT
+Fully self-service site, client-maintained
+[Heading2]The Problem
+MarGuru places IT specialists from post-Soviet countries and Europe into Israeli companies — real, ongoing business, but no website at all, which made the agency harder to trust at first contact.
+[Heading2]Research & Decisions
+Briefing first  —  Ran a briefing interview to find what actually differentiated the agency from larger, more established competitors.
+Industry research  —  Researched the recruitment industry and competitor sites to inform structure and messaging.
+CMS-driven jobs board  —  Set up a collection so each job posting generates its own page from a simple entry — no manual page-building needed going forward.
+Self-service applications  —  Connected a file-upload plugin so candidates could apply and attach documents directly through the site.
+[Heading2]Build
+Designed the site from scratch in Figma, then built it in Webflow — my first Webflow project — including the CMS collection and upload-enabled application forms.
+[Heading2]Outcome
+0→1   Went from no website to a full working site
+Self-serve   Client can add jobs herself, no designer needed
+Client-reported satisfaction; no analytics shared for this project.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
+04 / 11
+[Heading1]Square Circle
+A UK compliance company working with major national brands, represented by a templated website that undersold the credibility they&apos;d actually earned.
+ROLE
+Lead designer
+SCOPE
+Full site redesign, Figma component system, social & dashboard graphics, sister-brand logo
+TOOLS
+Figma
+YEAR
+2024
+RESULT
+Live, full component system handed over
+[Heading2]The Problem
+Square Circle works with some of the biggest names in UK safety and compliance, but their site was built from a generic template and did nothing to prove it — no real structure, no sense of their actual portfolio, no brand presence to speak of.
+[Heading2]Research & Decisions
+Briefing & funnel audit  —  Interviewed the owner directly, then mapped where their existing marketing funnel was leaking — and where structure changes could recover it.
+Competitor & industry research  —  Benchmarked against other compliance and safety providers to see how the strongest ones built trust and presented credentials.
+Component system first  —  Built a full Figma system — headers, footers, repeatable blocks — so the design would stay consistent as more pages and campaigns got added.
+Shipped without imagery, backfilled later  —  The client had almost no usable photography or project imagery at launch. Structured the design to work cleanly with placeholders, then dropped in real assets once the client supplied them.
+[Heading2]Build
+Designed the full structure, prototype and adaptive layouts, then handed over a complete Figma component system the client&apos;s team could keep extending. Also designed a logo for one of their sister brands, plus social and client-dashboard graphics.
+[Heading2]Outcome
+Live   Site running with the new structure
+Full system   Reusable Figma component library handed over
+Client-reported satisfaction; no analytics shared for this project.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
+05 / 11
+[Heading1]Sacred & Divine
+A religious lifestyle brand with real assets and ambition, but no consistent visual system across Instagram, email or their companion app.
+ROLE
+In-house designer, part-time
+SCOPE
+Social system, email design system, app website design & build
+TOOLS
+Figma, Wix, Midjourney
+YEAR
+2025—
+RESULT
+~15 posts + stories shipped monthly, on one system
+[Heading2]The Problem
+Sacred & Divine — candles, jewellery, fragrances, and a free companion app with prayers and guided content — had brand assets but no consistency across channels: inconsistent text placement, clashing colors, and an Instagram feed that didn&apos;t read as one brand.
+[Heading2]Research & Decisions
+Text placement system  —  Fixed where and how text sits on every post, so the feed reads as consistent even across dozens of one-off announcements.
+One AI art style for recurring content  —  Developed a consistent AI oil-painting illustration style for recurring holiday and devotional posts, kept separate from product photography.
+Email component system  —  Built reusable header, footer and selling-block components in Figma so campaigns ship without redrawing anything each time.
+Built the app&apos;s website solo  —  Designed and built the companion app&apos;s landing page in Wix with a new Figma design system, structured around the app&apos;s actual benefits.
+[Heading2]Build
+Delivered a consistent visual system across Instagram, email and the app&apos;s website, producing around fifteen posts and stories a month plus matching email campaigns — all from reusable components rather than one-off design work.
+[Heading2]Outcome
+~15/mo   Posts & stories shipped on the new system
+Ongoing   Role continues since Sept 2025
+Internal production volume, self-reported.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
+06 / 11
+[Heading1]Glovify
+A biodegradable-glove product with a target customer and nothing else — no store, no photography, no way to sell it.
+ROLE
+Shopify designer & builder
+SCOPE
+Full Shopify build, AI product photography, benefit graphics, brand positioning
+TOOLS
+Shopify, Midjourney
+YEAR
+2023
+RESULT
+Store launched, ready to advertise on day one
+[Heading2]The Problem
+The client had a product — biodegradable gloves aimed at mothers doing everyday household tasks — and almost nothing else. No store, no usable photography beyond a few boxes shot on a white background, and no clear way to present why the product was worth buying.
+[Heading2]Research & Decisions
+Positioning from a one-line brief  —  All the client gave me was who&apos;d use it and how. Built the visual positioning and messaging from that alone.
+Photography that didn&apos;t exist yet  —  Generated AI product photography and a short use-case video, since there was no real photography to work with.
+Benefit-first product pages  —  Designed graphics explaining why the product beat alternatives, rather than relying on copy alone to make the case.
+Ready to sell, not just ready to look at  —  Set up the full tagging, product and review system so the client only had to advertise — nothing left to build.
+[Heading2]Build
+Selected and customized the Shopify template, then built out the full store — product organization, purchase flow, and every piece of supporting content — from a single-sentence brief and no existing assets.
+[Heading2]Outcome
+0→1   No store to a fully sellable one
+Ready day one   Client only needed to add reviews and advertise
+Client-reported satisfaction; no sales figures shared.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
+07 / 11
+[Heading1]Mobile Apps City
+An agency selling premium website and business-building services, whose own brand and sales materials undersold the price point.
+ROLE
+Brand & graphic designer
+SCOPE
+Brand identity, sales collateral, supporting graphics
+TOOLS
+Figma
+YEAR
+2022
+RESULT
+Sales materials rebuilt to match the price point
+[Heading2]The Problem
+Mobile Apps City sells website and business-creation services at a premium price — but their own brand identity and sales PDFs looked cheap, undercutting the pitch before a conversation even started.
+[Heading2]Research & Decisions
+Identity from a logo up  —  Built the full brand identity from the existing logo, since nothing else was defined.
+Graphics that explain the service  —  Designed supporting graphics to make an abstract service — &apos;we build your business&apos; — concrete and easy to grasp at a glance.
+Sales PDFs as the real priority  —  Identified the sales PDFs as the highest-leverage fix — the piece prospects actually saw before deciding — and rebuilt them to match the price point being asked.
+[Heading2]Build
+Delivered a full brand identity and a rebuilt set of sales PDFs and supporting graphics, replacing materials that were actively working against the agency&apos;s own pitch.
+[Heading2]Outcome
+Rebuilt   Full sales PDF & brand identity refresh
+Referral-based   Work came through word of mouth from a prior client
+Qualitative outcome; no metrics tracked for this project.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
+08 / 11
+[Heading1]Art Therapy
+An art therapy startup with just an idea, needing an MVP that felt like therapy through art — not like software.
+ROLE
+Brand & web designer
+SCOPE
+Digital identity from scratch, illustration direction, MVP website design
+TOOLS
+Figma
+YEAR
+2022
+RESULT
+MVP shipped; most creative project to date
+[Heading2]The Problem
+The founder had an idea for an art-therapy product and nothing built around it yet — no visual identity, no direction for how a wellness product about art should actually look and feel.
+[Heading2]Research & Decisions
+Delegated the logo, owned everything else  —  Handed logo creation to a specialist, then built the full digital identity around it from scratch.
+Illustration over UI convention  —  Sourced and hand-combined stock illustration into one flowing collage style — done entirely by hand, before AI tools existed to help with this kind of work.
+Let the visuals carry the meaning  —  Designed the site so the artistic, collage-led look communicated &apos;this is about art and therapy&apos; without needing much explanatory copy.
+[Heading2]Build
+Designed the full MVP around the collage illustration style, built out as a working prototype for the founder to develop further.
+[Heading2]Outcome
+MVP   Shipped as a working prototype
+Pre-AI   Illustration work done entirely by hand
+Design-only deliverable; MVP was not launched as a live product.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
+09 / 11
+[Heading1]Interstellar
+A DTC dog-nutrition brand with a strong existing design system, testing which campaign approach actually sold subscriptions.
+ROLE
+Designer (within an existing system)
+SCOPE
+Campaign & A/B variant design, supporting graphics
+TOOLS
+Figma, Midjourney
+YEAR
+2023
+RESULT
+Repeat client work, fast turnaround
+Note: Framed honestly as work done within someone else&apos;s existing design system, not an original build.
+[Heading2]The Problem
+Interstellar already had a strong Figma design system in place and knew the site worked — what they needed was speed: new campaign and subscription-selling variants to test against it, without waiting on the original design team.
+[Heading2]Research & Decisions
+Worked inside an existing system  —  Rather than redesigning, executed new campaign pages and A/B variants within the established Figma system — matching, not replacing, what was already working.
+Contributed where it mattered  —  Flagged structural and color suggestions where testing data pointed to a likely improvement, without disrupting the core system.
+Filled the asset gap  —  Created supporting AI-generated graphics for campaigns that didn&apos;t have supplied imagery.
+[Heading2]Build
+Designed and delivered multiple campaign and A/B test variants within the client&apos;s existing system, including one full page designed independently in the established style.
+[Heading2]Outcome
+Repeat client   Brought back for ongoing edits
+Fast turnaround   Valued specifically for speed and responsiveness
+Client-reported; the brand is no longer operating.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
+10 / 11
+[Heading1]Onik Lab
+A social and email marketing agency running 30+ client accounts entirely in Photoshop, with no shared system and no Figma.
+ROLE
+Graphic designer, in-house
+SCOPE
+Figma rollout, component system, social & email campaigns across 30+ accounts
+TOOLS
+Figma, Klaviyo
+YEAR
+2020–22
+RESULT
+System still in use after she left
+[Heading2]The Problem
+Onik Lab ran social and email campaigns for 30+ clients across different industries, but the whole studio worked file-by-file in Photoshop with no shared system — slow, inconsistent, and hard to scale as the client list grew.
+[Heading2]Research & Decisions
+Introduced Figma to the team  —  Brought Figma into an agency that had never used it, and built out how the team would actually work in it.
+Built the first component system  —  Created the studio&apos;s first reusable component system — buttons, blocks, footers — so campaigns didn&apos;t need to be redrawn from scratch for each client.
+Worked directly with copy & Klaviyo  —  Collaborated closely with a copywriter and a Klaviyo specialist across dozens of accounts, keeping design consistent across very different brand voices.
+[Heading2]Build
+Designed social and email campaigns across 30+ client accounts spanning multiple industries, using the component system to keep quality consistent while working at volume.
+[Heading2]Outcome
+30+   Client accounts designed for
+System stayed   Other designers kept using it after she left
+Tenure: Feb 2020 – Sept 2022, part-time.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
+11 / 11
+[Heading1]DWL Vision
+A social marketing agency pairing professional photography with design, running continuous Instagram feeds for 20+ clients.
+ROLE
+Graphic designer
+SCOPE
+Continuous-feed Instagram design across 20+ client accounts
+TOOLS
+[Add tools used]
+YEAR
+2020–21
+RESULT
+Sharpest growth period in her visual design skill
+[Heading2]The Problem
+DWL Vision&apos;s clients — including multi-location hospitality brands — had strong photography from in-house photographers, but needed that photography turned into cohesive, &apos;continuous feed&apos; Instagram grids where every post visually connected to the next.
+[Heading2]Research & Decisions
+Design around existing photography  —  Worked from photographer-supplied shots rather than generating imagery, adding graphic elements that made each post connect to its neighbors.
+Every post had to mean something  —  The creative director pushed for concept in every single post, not just consistent style — a much higher bar than volume social work usually asks for.
+High-volume revision cycles  —  Went through repeated, demanding rounds of feedback per client — the fastest her visual skills improved at any point in her career.
+[Heading2]Build
+Designed continuous-feed Instagram campaigns for 20+ clients from different industries, working directly from photographer-supplied content under a demanding, concept-first creative direction.
+[Heading2]Outcome
+20+   Client accounts designed for
+2020–21   Tenure at the agency
+Self-assessed as the period of fastest creative growth.
+[Heading2]What I&apos;d Do Differently
+[No retrospective on file yet — paste what you&apos;d do differently here, if you have one.]
+[Heading2]Client Testimonial
+[No client testimonial on file for this project — paste a review or quote here, if you have one.]
+— [Source — e.g. Upwork review · 5.0]
